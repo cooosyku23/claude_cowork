@@ -1,26 +1,34 @@
 # Claude Cowork Guide
 
-An unofficial guide to using Claude Cowork safely and effectively.
+An unofficial, safety-first, power-user guide for Claude Cowork (Research Preview).
 
 ## What is this?
 
-This is an **Early Look** guide for Claude Cowork, Anthropic's new agent AI tool. 
+This repository contains an **Early Look, Rev 2** guide for Claude Cowork — Anthropic’s agent experience for **Claude Desktop (macOS)** that can act on your local files.
+
 It focuses on:
-- Understanding risks before features
-- Practical safety habits
-- Templates you can use immediately
 
-## ⚠️ Disclaimer
+- Threat model first: destructive file operations and prompt injection
+- Practical safety habits: isolated workspace, copies (never originals), previews, batch gating, explicit prohibitions
+- Execution model overview: VM-based execution, parallel workstreams, long-running tasks, and session continuity constraints
+- A one-page **Power User Runbook** (control / audit / recover)
+- Prompt templates and practical workflow examples
+- References to primary sources (official docs) and clearly-labeled independent analysis
 
-This is **not** official Anthropic documentation. 
+## Disclaimer
+
+This is **not** official Anthropic documentation. Cowork is a research preview and may change or break without notice. Use at your own risk.
 
 For official information, see:
-- [Anthropic's Cowork Announcement](https://claude.com/blog/cowork-research-preview)
+- [Introducing Cowork (Research Preview)](https://claude.com/blog/cowork-research-preview)
+- [Getting Started with Cowork](https://support.claude.com/en/articles/13345190-getting-started-with-cowork)
+- [Using Cowork Safely](https://support.claude.com/en/articles/13364135-using-cowork-safely)
+- [Using the Gmail and Google Calendar Integrations](https://support.claude.com/en/articles/11088742-using-the-gmail-and-google-calendar-integrations)
 - [Claude Help Center](https://support.anthropic.com)
 
 ## Quick Links
 
-- [📖 Read the Guide](https://github.com/cooosyku23/claude_cowork/blob/main/claude_cowork_guide.md)
+- [Read the Guide (Early Look)](https://github.com/cooosyku23/claude_cowork/blob/main/claude_cowork_guide.md)
 
 ## Status
 
