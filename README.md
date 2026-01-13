@@ -20,7 +20,7 @@ For official information, see:
 
 ## Quick Links
 
-- [📖 Read the Guide](claude-cowork-guide.md)
+- [📖 Read the Guide](https://github.com/cooosyku23/claude_cowork/blob/main/claude_cowork_guide.md)
 
 ## Status
 
@@ -30,12 +30,8 @@ For official information, see:
 
 ## License
 
-[CC0 1.0 Universal (Public Domain)](LICENSE)
-```
+[CC0 1.0 Universal (Public Domain)]
 
----
-
-### LICENSE
 ```
 CC0 1.0 Universal (CC0 1.0)
 Public Domain Dedication
