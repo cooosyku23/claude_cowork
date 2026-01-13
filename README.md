@@ -4,7 +4,7 @@ An unofficial, safety-first, power-user guide for Claude Cowork (Research Previe
 
 ## What is this?
 
-This repository contains an **Early Look, Rev 2** guide for Claude Cowork — Anthropic’s agent experience for **Claude Desktop (macOS)** that can act on your local files.
+This repository contains an **Early Look** guide for Claude Cowork — Anthropic’s agent experience for **Claude Desktop (macOS)** that can act on your local files.
 
 It focuses on:
 
