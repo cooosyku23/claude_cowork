@@ -20,7 +20,7 @@ For official information, see:
 
 ## Quick Links
 
-- [📖 Read the Guide](guide/claude-cowork-guide.md)
+- [📖 Read the Guide](claude-cowork-guide.md)
 
 ## Status
 
@@ -49,3 +49,4 @@ You can copy, modify, distribute and perform the work, even for commercial
 purposes, all without asking permission.
 
 https://creativecommons.org/publicdomain/zero/1.0/
+```
